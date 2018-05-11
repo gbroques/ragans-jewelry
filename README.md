@@ -1,8 +1,9 @@
-# Ragan's Jewelry
+# Randy's Jewelry
 This is a homepage for the website of a local jewelry store. Eventually I'll convert it to a WordPress theme.
 
-## To View
-- Clone repository
-- Run npm install
-- Run gulp
-- Open index.html
+## Setup
+- `git clone https://github.com/gbroques/randys-jewelry.git`
+- `cd randys-jewelry`
+- `npm install`
+- `./node_modules/gulp/bin/gulp.js`
+- Open `index.html`
